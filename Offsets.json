@@ -1,7 +1,7 @@
 {
   "Offsets": {
     "General": {
-      "ChildSize": "0x69",
+      "ChildSize": "0x8",
       "Name": "0x68",
       "Children": "0x70",
       "Parent": "0x50",
