@@ -29,7 +29,7 @@
     },
     "Camera": {
       "CameraPosition": "0xFC",
-      "CurrentCamera": "0x3D8",
+      "CurrentCamera": "0x3E8",
       "CameraRotation": "0xD8"
     },
     "PlayerAttributes": {
